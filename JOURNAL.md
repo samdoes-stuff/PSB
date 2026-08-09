@@ -6,7 +6,7 @@ Start of the project. First question : Why this project?
 
 So to remove my future inconvenience, I decided to make USB hub. As of now, I am thinking of getting started with default design (4 Downstream) 
 
-Cheap selection is huge as well as confusion. Found a good a project in Easyeda but the main hub seems to be market out. So working with an alternative > RTS5411S-GT. 
+Cheap selection is huge as well as confusing. Found a good a project in Easyeda but the main hub seems to be market out. So working with an alternative > RTS5411S-GT. 
 
 This chip is used in Nvidia Jetson Nano board. So, it is quite good + overkilled. But I couldn't a find a reference schematics for this specific chip. 
 
