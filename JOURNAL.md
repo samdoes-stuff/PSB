@@ -28,3 +28,23 @@ Honestly, past few day I am working on it bit by bit but I am now genuinely conf
 Do I need power for my downstream ports? => Yes. But the laptop 5V won't be enough to supply the 4 downstream ports. It can manage the HUB chip itself. That is the most I believe and also if I connect my phone. I definitely want it to be fast charged crazy. 
 
 Couple of thoughts came to my mind => 
+
+
+# 16/08/206 
+
+It became a update journal rather than normal continuous journal. 
+
+First of all, I dumbed my thoughts of doing first charge. It will be no longer a feature. Just a general USB hub to get it started. 
+
+My upstream port is a male connector so that I don't have to use extra cable. And the downstream ports are all vertically positioned. Trying to shrink the size as much as I can.  
+
+**Note to reviewers**
+
+First of all, I thought to make it a 2 layer board. But USB3 is such a high speed connection that it is not recommended to use a 2 layer board cause it needs a reference plane. So It is a 4 layer board.  
+
+Now, there is nothing left to update without finishing the routing focusing on routing -_-
+
+<img width="726" height="373" alt="image" src="https://github.com/user-attachments/assets/581e7195-3ac3-42aa-9c04-209a3165e5b4" />
+
+<img width="794" height="401" alt="image" src="https://github.com/user-attachments/assets/636ea2b2-b845-413a-9878-9e02566ba42c" />
+
