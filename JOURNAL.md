@@ -30,7 +30,7 @@ Do I need power for my downstream ports? => Yes. But the laptop 5V won't be enou
 Couple of thoughts came to my mind => 
 
 
-# 16/08/206 
+# 16/08/2026 
 
 It became a update journal rather than normal continuous journal. 
 
@@ -48,3 +48,8 @@ Now, there is nothing left to update without finishing the routing focusing on r
 
 <img width="794" height="401" alt="image" src="https://github.com/user-attachments/assets/636ea2b2-b845-413a-9878-9e02566ba42c" />
 
+# 17/08/2026
+
+Routing update ! it is turning out pretty good. I like it 
+
+<img width="832" height="629" alt="image" src="https://github.com/user-attachments/assets/ee8532d1-9399-48f7-b676-8cfe2aaaebfa" />
