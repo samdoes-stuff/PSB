@@ -53,3 +53,27 @@ Now, there is nothing left to update without finishing the routing focusing on r
 Routing update ! it is turning out pretty good. I like it 
 
 <img width="832" height="629" alt="image" src="https://github.com/user-attachments/assets/ee8532d1-9399-48f7-b676-8cfe2aaaebfa" />
+
+# 18/08/2026 
+
+Finished the routing. There is nothing to journal about it but I can write about the thought process. 
+
+The board is a 4 layer board. First layer is  signal layer with all of the differential pair. And the 2nd layer is GND plane which is a reference plane for the differential pair. 
+
+3rd layer is a power plane. There is  1.2V, 3V3 and 5V 
+
+4th layer is for decoupling caps and extra IO signal routing. 
+
+Finally the board is finished on routing. 
+
+### Why no case for my hub 
+
+there is lot of free space. I will use standoff. But not for the bottom part otherwise it will increase the height and I will not be able use with my laptop cause the upstream port is Male connector. So only top case i can make but still I have vertical USB port so I don't think a top case would be suitable 
+
+<img width="821" height="579" alt="image" src="https://github.com/user-attachments/assets/412bea27-ece8-4770-a265-287dac7f2982" />
+
+<img width="839" height="602" alt="image" src="https://github.com/user-attachments/assets/8ac9025f-550a-4a54-82d5-c3e9b081f778" />
+
+<img width="801" height="482" alt="image" src="https://github.com/user-attachments/assets/09aa1e16-1da5-43b9-9d23-f812ff7ff79a" />
+
+
