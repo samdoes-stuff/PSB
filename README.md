@@ -59,3 +59,8 @@ Cool renders that I did! But sadly my fusion trial ended. I can no longer use it
 ![Render](<Design File/3D_PCB2_2026-08-18.png>)
 
 ![Render](<Design File/3D_PCB3_2026-08-18.png>)
+
+
+# AI USAGE & DECLARATION 
+
+AI was used as a search engine & web searcher for questions related to the project. No AI has been used to design the PCB; all the routings are manual and hand logged
