@@ -16,6 +16,8 @@
   - **Four Led for indicating port usage** 
   - **On chip voltage regulator for 3V3 & 1V2** 
   - **Flyback Power protection on each Port**
+  - **Exposed 8 Pins for Programming the board**
+
 
 # Schematics 
 
@@ -31,3 +33,29 @@ This is 4 layer board recommended for USB3
 
 ![Toplayer](<Design File/Toplayer.png>)
     
+### Inner1 Layer - GND Plane 
+
+![Inn1](<Design File/In1layer.png>)
+
+### Inner2 Layer - Power Pour - 5V, 3V3, 1V2 
+
+![Inn2](<Design File/In2layer.png>)
+
+### Bottom Layer - Decoupling + Flyback + Copper Pour 
+
+![Bottom](<Design File/Btmlayer.png>)
+
+
+# BOM 
+  
+  Please refer to BOM.csv
+
+# Render 
+
+Cool renders that I did! But sadly my fusion trial ended. I can no longer use it also my school starts in November. I have to find some alternatives 
+
+![Render](<Design File/3D_PCB1_2026-08-18.png>)
+
+![Render](<Design File/3D_PCB2_2026-08-18.png>)
+
+![Render](<Design File/3D_PCB3_2026-08-18.png>)
